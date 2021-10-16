@@ -13,10 +13,10 @@
           "architecture": "samd",
           "version": "0.0.01",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/RoboHat-0.0.12.zip",
-          "archiveFileName": "RoboHat-0.0.12.zip",
+          "url": "https://github.com/rldurrant/protoduino_m4_a-arduino/Protoduino_M4_A-0.0.01.zip",
+          "archiveFileName": "Protoduino_M4_A-0.0.01.zip",
           "checksum": "SHA-256:e6a4c0b37a90a922777556d3af04c0396d9fc7fc47dfa5220f3d3da2410a3bf1",
-          "size": "2381077",
+          "size": "7335936",
           "boards": [
             {
               "name": "NRT Protoduino M4 A"
