@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/rldurrant/protoduino_m4_a-arduino/Protoduino_M4_A-0.0.01.zip",
           "archiveFileName": "Protoduino_M4_A-0.0.01.zip",
-          "checksum": "SHA-256:e6a4c0b37a90a922777556d3af04c0396d9fc7fc47dfa5220f3d3da2410a3bf1",
-          "size": "7335936",
+          "checksum": "SHA-256:e87870a70822d494b637b10ff54ba7430724312b76e12daed282369bfb8b2e04",
+          "size": "73332780",
           "boards": [
             {
               "name": "NRT Protoduino M4 A"
